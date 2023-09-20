@@ -1,4 +1,5 @@
-# Name of your Research Project1
+# SubstrAItor
+
 
 > This document will be part of the terms and conditions of your agreement and therefore needs to contain all the required information about the project. Don't remove any of the mandatory parts presented in bold letters or as headlines (except for the title)! Lines starting with a `>` (such as this one) should be removed. Please use markdown instead of HTML (e.g. `![](image.png)` instead of `<img>`). 
 >
@@ -19,16 +20,27 @@ If this is an application for a follow-up grant (the continuation of an earlier,
 Please provide the following:
 
 - If the name of your project is not descriptive, a tag line (one sentence summary).
-- A brief description of your project.
+Substrait developer assistant.
+
+- A brief description of your project: 
+Our team aims to create a powerful developer assistant powered by LLM technology. As a result of the current research we are going to build a base tool for streamlining the onboarding process for new developers and provide easy, chat-based access to documentation. Additionally, existing Polkadot developers will also benefit from using this tool.
+
 - An indication of how your project relates to / integrates into Substrate / Polkadot / Kusama.
+This tool  will provide developers with clear and meaningful answers to their questions based on the analysis of the existing Substrate documentation and other sources. Also the project includes building a support tool to automate data collection to keep the analysed data up to date. 
+
 - An indication of why your team is interested in creating this project.
+We worked with AI and ML projects way before it became a trend during our work for Samsung research institute in 2013-2016.During all these years we kept an eye on the development of this industry and believe that Blockchain industry should benefit from the advantages, AI brings to us.
+
 - An indication if your project is academic research, i.e., intended to be published in an academic peer-reviewed venue, or a technical one, to be published as a technical report on the internet. 
+The project will be rather a technical research and in addition to posting the report, we aim to deliver a vscode extension and collect feedback from the early users, that will help to adjust and shape the substrAItor roadmap.
+
 
 ### Project Details
 
 We expect the teams to already have a solid idea about your project's expected final state. Therefore, we ask the teams to submit (where relevant):
 
 - The problem(s) that you want to investigate, and why these are important. 
+
 - Research questions/hypothesis.
 - The methodology that will be applied. 
 - The data collection and analysis procedures.
@@ -62,7 +74,7 @@ Help us locate your project in the Polkadot/Substrate/Kusama landscape and what 
 
 ### Contact
 
-- **Contact Name:** Full name of the contact person in your team
+- **Contact Name:** Volodymyr Rudenko
 - **Contact Email:** Contact email (e.g. john@duo.com)
 - **Website:** Your website
 
